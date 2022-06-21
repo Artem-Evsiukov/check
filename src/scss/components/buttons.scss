@@ -16,16 +16,13 @@
 
     &:hover {
       background-color: #f8eb77;
-      border: none;
+      border: 1px solid #f8eb77;
     }
 
     &:focus {
       background: #fffacf;
       box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.08);
-    }
-    &.current {
-      background-color: #f8eb77;
-      border: none;
+      border: 1px solid #f8eb77;
     }
   }
 
