@@ -6,17 +6,15 @@
 }
 
 .intro-body {
-  height: 549px;
+  height: 100vh;
   overflow-x: hidden;
   overflow-y: scroll;
   padding-right: 30px;
 }
 
-.intro-wrap {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 -1.5rem -3rem;
-}
+// .intro-wrap {
+
+// }
 
 .intro {
   width: 100%;
